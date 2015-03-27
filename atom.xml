@@ -4,7 +4,7 @@
   <title><![CDATA[solad's blog]]></title>
   <link href="http://solad5.github.io/atom.xml" rel="self"/>
   <link href="http://solad5.github.io/"/>
-  <updated>2015-03-27T22:21:38+08:00</updated>
+  <updated>2015-03-27T22:39:54+08:00</updated>
   <id>http://solad5.github.io/</id>
   <author>
     <name><![CDATA[solad]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First to Say]]></title>
+    <link href="http://solad5.github.io/blog/2015/03/27/first-to-say/"/>
+    <updated>2015-03-27T22:24:52+08:00</updated>
+    <id>http://solad5.github.io/blog/2015/03/27/first-to-say</id>
+    <content type="html"><![CDATA[<h1>First to say</h1>
+
+<p>I had a personal blog before, on which I recorded my life.</p>
+
+<p>This is different. It&rsquo;s about something objective.</p>
+
+<p>I am not a geek.</p>
+
+<p>But I pretend to be a geek, who likes technique a lot.</p>
+]]></content>
+  </entry>
   
 </feed>
